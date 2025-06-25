@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "pha9-c6238"
+  },
+  "targets": {
+    "pha9-c6238": {
+      "hosting": {
+        "hobbyHubTarget": [
+          "hobby-hub"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
